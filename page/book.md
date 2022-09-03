@@ -1,7 +1,7 @@
 ---
 layout: book
-title: Best deal car services
-description: The best deal car limousines services.
+title: Limo Service Near Me Booking
+description: Limo Service Near Me Booking
 cover: assets/img/homes.webp
 permalink: "/limo-service-near-me-booking"
 

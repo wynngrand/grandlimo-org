@@ -53,3 +53,5 @@ fields:
 - type: file
   name: fleet6image
   label: fleet6image
+pages:
+- page/fleet.md

@@ -1,7 +1,7 @@
 ---
 layout: fleet
 title: Fleet Gallery
-description: Our fleet gallery
+description: Current Fleet
 permalink: "/fleet"
 cover: "/assets/img/homes.webp"
 fleet1: Limousine

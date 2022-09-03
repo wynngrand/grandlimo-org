@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Grand Limousine
-description: We focus on satisfaction and service
-subtitle: Black Car Services. 
+description: We Focus on Satisfaction and Service
+subtitle: Limousine Corporate Luxury Car & Party Bus
 cover: assets/img/homes.webp
----
 
+---
 Grand Limousine is a premium provider of luxury vehicles and exceptional chauffeured services in Atlanta.
 
 We provide an elegant ride for weddings, prom nights out on the town, or any special event you might have planned since 2007! You deserve an unforgettable experience, so call us today at (404) 424 4499 to discuss your needs with one of our professional drivers who will deliver elegance wherever it's needed, most importantly yourself.

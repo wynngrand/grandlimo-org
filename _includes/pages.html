@@ -1,0 +1,13 @@
+<div class="container">
+  
+    <div class="row">
+    <div class="col-md-12 p-3 p-md-5">
+<img class="img-fluid" width="100%" height="100%" alt="{{page.title}}" src="{{page.cover}}"/>
+        <h1><strong><a href="{{page.url}}" class="text-dark">{{page.title}}</a></strong></h1>
+        <h2>{{page.description}}</h2>
+    {{content}}
+    </div>
+ 
+    {%- include book.html -%}
+    </div>
+</div>

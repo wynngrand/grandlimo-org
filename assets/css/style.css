@@ -1,0 +1,31 @@
+a:link {
+    text-decoration: none;
+    }
+    .blue {
+     background-image: linear-gradient(to right top, #051937, #133660, #1d578d, #1f7bbb, #12a1eb);
+    }
+    .blues {
+         background-image: linear-gradient(to right top, #051937, #002762, #00358f, #0042bd, #124ceb);
+    }
+    .blacks {
+         background-image: linear-gradient(to right top, #051937, #091934, #0c1831, #0f182f, #11182c);
+    }
+    .btn {
+        font-size: 20px;
+    }
+    li {
+        font-size: 14px;
+    }
+    .cus:hover {
+        background-image: linear-gradient(to right top, #051937, #133660, #1d578d, #1f7bbb, #12a1eb);
+        color: white;
+    }
+    .cus {
+        color: black;
+    }
+    h1 {
+font-size: 50px;
+}
+    h2 {
+font-size: 34px;
+}

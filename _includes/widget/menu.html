@@ -1,0 +1,45 @@
+<div class="col-md-4 col-6 p-3 p-md-5">
+    <h3>Menu</h3>
+    <ul class="row">
+      <li class="col-12 col-md-6">
+  <a href="/" class="text-white">
+Home Page
+</a>
+</li>
+<li class="col-12 col-md-6">
+  <a href="{{site.navbar.nav2link}}" class="text-white">
+{{site.navbar.nav2}}
+</a>
+</li>
+<li class="col-12 col-md-6">
+  <a href="{{site.navbar.nav3link}}" class="text-white">
+    {{site.navbar.nav3}}
+</a>
+</li>
+<li class="col-12 col-md-6">
+  <a href="{{site.navbar.nav4link}}" class="text-white">
+    {{site.navbar.nav4}}
+</a>
+</li>
+{% for post in site.posts %}
+<li class="col-12 col-md-6">
+  <a class="text-light" href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endfor %}
+<li class="col-12 col-md-6">
+  <a href="{{site.navbar.nav5link}}" class="text-white">
+    {{site.navbar.nav5}}
+</a>
+</li>
+<li class="col-12 col-md-6">
+  <a href="{{site.navbar.nav6link}}" class="text-white">
+    {{site.navbar.nav6}}
+</a>
+</li>
+<li class="col-12 col-md-6">
+  <a href="{{site.navbar.nav7link}}" class="text-white">
+    {{site.navbar.nav7}}
+</a>
+</li>
+</ul>
+</div>

@@ -1,0 +1,48 @@
+company: Grand Limousine
+url: https://www.grandlimousine.org
+email: info@grandlimousine.com
+phone: 404-424-4499 
+call: +14044244499
+address: Houston, TX 77041 
+navbar:
+  logo: /assets/img/logo.webp
+  nav1: Home
+  nav1link: /
+  nav2: About
+  nav2link: /about-us
+  nav3: Fleet
+  nav3link: /fleet
+  nav4: Services
+  nav4link: /service
+  nav5: Book Now
+  nav5link: /limo-service-near-me-booking
+  nav6: Terms
+  nav6link: /terms
+  nav7: Contact
+  nav7link: /contact
+cover: /assets/img/limousineservice.webp
+menu:
+  menu1: SERVICES
+  menu1link: /service
+  menu2: FLEET GALLERY
+  menu2link: /fleet
+  menu3: GET A QUOTE
+  menu3link: /limo-service-near-me-booking
+book:
+  intro: Grand Limousine Atlanta
+  text: Our dispatchers are professionally trained, so you can always get a last-minute reservation or change without hassle. We are ready on short notice, too, if you have clients who require quick response times when needing an SUV or Car during these hectic days of commuting. Using the best luxury car service isn’t enough nowadays - we all require individual attention to our travel needs. We take care of your travel and comfort so you can be ready for your arrival.
+  btn: Book Now
+footer:
+  nla: /assets/img/nla.webp
+  sitename: About Grand Limousine
+  shortdescription: Atlanta Corporate Limousine is proud to provide executive ground transportation for all your Atlanta needs. We offer group tours, Atlanta city limo services, and more!
+author:
+  name: Creativitas
+  link: https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll
+cuteblog:
+  date_format: "%b %-d, %Y"
+theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag

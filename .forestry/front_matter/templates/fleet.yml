@@ -1,0 +1,55 @@
+---
+label: fleet
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: permalink
+  label: permalink
+- type: file
+  name: cover
+  label: cover
+- type: text
+  name: fleet1
+  label: fleet1
+- type: file
+  name: fleet1image
+  label: fleet1image
+- type: text
+  name: fleet2
+  label: fleet2
+- type: file
+  name: fleet2image
+  label: fleet2image
+- type: text
+  name: fleet3
+  label: fleet3
+- type: file
+  name: fleet3image
+  label: fleet3image
+- type: text
+  name: fleet4
+  label: fleet4
+- type: file
+  name: fleet4image
+  label: fleet4image
+- type: text
+  name: fleet5
+  label: fleet5
+- type: file
+  name: fleet5image
+  label: fleet5image
+- type: text
+  name: fleet6
+  label: fleet6
+- type: file
+  name: fleet6image
+  label: fleet6image

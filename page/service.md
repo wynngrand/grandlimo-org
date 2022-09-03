@@ -1,7 +1,7 @@
 ---
 layout: service
-title: Our Car Limousine Service
-description: Our Car Limousine Service description
+title: Limousine Service
+description: 'Limousine Service '
 cover: assets/img/homes.webp
 permalink: "/service"
 

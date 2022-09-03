@@ -1,0 +1,145 @@
+---
+label: configuration
+hide_body: true
+fields:
+- type: text
+  name: company
+  label: company
+- type: text
+  name: url
+  label: url
+- type: text
+  name: email
+  label: email
+- type: text
+  name: phone
+  label: phone
+- type: number
+  name: call
+  label: call
+- type: text
+  name: address
+  label: address
+- type: field_group
+  name: navbar
+  label: navbar
+  fields:
+  - type: file
+    name: logo
+    label: logo
+  - type: text
+    name: nav1
+    label: nav1
+  - type: text
+    name: nav1link
+    label: nav1link
+  - type: text
+    name: nav2
+    label: nav2
+  - type: text
+    name: nav2link
+    label: nav2link
+  - type: text
+    name: nav3
+    label: nav3
+  - type: text
+    name: nav3link
+    label: nav3link
+  - type: text
+    name: nav4
+    label: nav4
+  - type: text
+    name: nav4link
+    label: nav4link
+  - type: text
+    name: nav5
+    label: nav5
+  - type: text
+    name: nav5link
+    label: nav5link
+  - type: text
+    name: nav6
+    label: nav6
+  - type: text
+    name: nav6link
+    label: nav6link
+  - type: text
+    name: nav7
+    label: nav7
+  - type: text
+    name: nav7link
+    label: nav7link
+- type: file
+  name: cover
+  label: cover
+- type: field_group
+  name: menu
+  label: menu
+  fields:
+  - type: text
+    name: menu1
+    label: menu1
+  - type: text
+    name: menu1link
+    label: menu1link
+  - type: text
+    name: menu2
+    label: menu2
+  - type: text
+    name: menu2link
+    label: menu2link
+  - type: text
+    name: menu3
+    label: menu3
+  - type: text
+    name: menu3link
+    label: menu3link
+- type: field_group
+  name: book
+  label: book
+  fields:
+  - type: text
+    name: intro
+    label: intro
+  - type: textarea
+    name: text
+    label: text
+  - type: text
+    name: btn
+    label: btn
+- type: field_group
+  name: footer
+  label: footer
+  fields:
+  - type: file
+    name: nla
+    label: nla
+  - type: text
+    name: sitename
+    label: sitename
+  - type: textarea
+    name: shortdescription
+    label: shortdescription
+- type: field_group
+  name: author
+  label: author
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: cuteblog
+  label: cuteblog
+  fields:
+  - type: text
+    name: date_format
+    label: date_format
+- type: text
+  name: theme
+  label: theme
+- type: list
+  name: plugins
+  label: plugins

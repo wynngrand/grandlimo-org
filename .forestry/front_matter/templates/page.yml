@@ -18,4 +18,5 @@ fields:
   name: permalink
   label: permalink
 pages:
+- page/about-us.md
 - page/contact.md

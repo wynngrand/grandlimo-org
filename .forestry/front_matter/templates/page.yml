@@ -19,6 +19,7 @@ fields:
   label: permalink
 pages:
 - _posts/2022-09-01-group.md
+- _posts/2022-09-01-leisure.md
 - _posts/2022-09-01-sport.md
 - page/about-us.md
 - page/contact.md
